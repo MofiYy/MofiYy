@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">👋 Привет!</h1>
 
-<!--
-**MofiYy/MofiYy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+## Обо мне ♣
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![Discord](https://img.shields.io/badge/-Discord-808080?style=flat&logo=discord&logoColor=white)](https://discord.com/users/933978975070466098)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Начинающий Python Developer - из России, занимаюсь моим самым первым проектом [@Nekky](https://discord.com/users/1042463070208917534).  
+
+Я увлечен разработкой программного обеспечения и созданием ботов для Telegram и Discord. Мое страстное интересование в этой области побуждает меня постоянно изучать новые технологии и улучшать свои навыки в программировании. 
