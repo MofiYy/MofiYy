@@ -9,7 +9,7 @@
 
 Я увлечен разработкой программного обеспечения и созданием ботов для Telegram и Discord. Мое страстное интересование в этой области побуждает меня постоянно изучать новые технологии и улучшать свои навыки в программировании. 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mofiiyy)
 [![Discord](https://img.shields.io/badge/-Discord-808080?style=flat&logo=discord&logoColor=white)](https://discord.com/users/933978975070466098)
 
 ### 💻 Технологии:
