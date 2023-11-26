@@ -1,29 +1,14 @@
-<h1 align="center">👋 Привет!</h1>
+### My name is Nikita better known as It's Mofi
+Web Designer | IT specialist. My main programming language is Python
 
-<p align="center">
- <img width="600" src="assets/mofi.png" alt="snake"/>
-</p>
-
-## Обо мне ♣
-Начинающий Python Developer - из России, занимаюсь моим самым первым проектом [@Nekky](https://discord.com/users/1042463070208917534).  
-
-Я увлечен разработкой программного обеспечения и созданием ботов для Telegram и Discord. Мое страстное интересование в этой области побуждает меня постоянно изучать новые технологии и улучшать свои навыки в программировании. 
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mofiiyy)
-[![Discord](https://img.shields.io/badge/-Discord-808080?style=flat&logo=discord&logoColor=white)](https://discord.com/users/933978975070466098)
-
-### 💻 Технологии:
-
-<div>
-    <img src="https://skillicons.dev/icons?i=py,java,sqlite&perline=7" />
-</div>
+![skills](https://skillicons.dev/icons?i=python,java,go,postgres,linux,git)
 
 ---
-
-### 🛠 Программное обеспечение:
-
-<div>
-   <img src="https://skillicons.dev/icons?i=vscode,idea,blender,ultimate&perline=7" />
-</div>
+### About me
+My name is Nikita, I am 15 years old, I started studying IT specialties at the age of 14, and then the Python programming language. Which remains my primary language to this day. Besides Python, I study Java, Go. (✿◡‿◡)
 
 ---
+### Plans
+- [ ] - Switch to another programming language `Java` and `Kotlin`
+- [ ] - Start making more open source projects, for github
+- [ ] - Gain experience in using docker and kubernetes
