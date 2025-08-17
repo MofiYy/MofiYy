@@ -5,7 +5,7 @@ Web Designer | IT specialist. My main programming language is Python
 
 ---
 ### About me
-My name is Nikita, I am 16 years old, I started studying IT specialties at the age of 14, and then the Python programming language. Which remains my primary language to this day. Besides Python, I study Java, Go. (✿◡‿◡)
+My name is Nikita,  I started studying IT specialties at the age of 14, and then the Python programming language. Which remains my primary language to this day. Besides Python, I study Java, Go. (✿◡‿◡)
 
 ---
 ### Plans
