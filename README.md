@@ -1,14 +1,8 @@
-### My name is Nikita better known as It's Mofi
-Web Designer | IT specialist. My main programming language is Python
-
-![skills](https://skillicons.dev/icons?i=python,java,go,postgres,linux,git)
+### 👋 Hi, my name is Nikita!
+Backend developer. Main programming language is Python
 
 ---
-### About me
-My name is Nikita,  I started studying IT specialties at the age of 14, and then the Python programming language. Which remains my primary language to this day. Besides Python, I study Java, Go. (✿◡‿◡)
 
----
-### Plans
-- [ ] - Switch to another programming language `Java` and `Kotlin`
-- [ ] - Start making more open source projects, for github
-- [ ] - Gain experience in using docker and kubernetes
+### 💻 Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-3670A0?style=plastic&logo=git&logoColor=red)
+
